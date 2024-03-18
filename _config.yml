@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: ANson
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
+author: ANson
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jiji.pro/hexo-template
+url: https://安心.top
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,3 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
