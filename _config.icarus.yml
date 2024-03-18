@@ -15,11 +15,11 @@ head:
         name: 
         # The displayed name of the web application
         # when there is not enough space to display full name
-        short_name: 
+        short_name: Anson
         # The start URL of the web application
         start_url: 
         # The default theme color for the application
-        theme_color: 
+        theme_color: black
         # A placeholder background color for the application page to display
         # before its stylesheet is loaded
         background_color: 
