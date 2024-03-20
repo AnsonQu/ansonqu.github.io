@@ -216,7 +216,7 @@ widgets:
         # Author title
         author_title: 一个创作者
         # Author's current location
-        location: Jinan ShanDong China
+        location: Jinan Shandong China
         # URL or path to the avatar image
         avatar: https://s2.loli.net/2024/03/18/qWmPAHUN2EeKxcr.png
         # Whether show the rounded avatar image
@@ -235,7 +235,7 @@ widgets:
                 url: https://twitter.com/Anson_Quu
             Dribbble:
                 icon: fab fa-telegram
-                url: https://t.me/unognn
+                url: https://t.me/uogkrx
             RSS:
                 icon: fas fa-rss
                 url: /
@@ -258,7 +258,7 @@ widgets:
         # Names and URLs of the sites
         links:
             进入Telegram粉丝群: https://t.me/Ansons_blog
-            联系我: mailto:service@anson.fun?subject=from：博客
+            联系我: mailto:service@anson.fun?subject=from：b2博客
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
