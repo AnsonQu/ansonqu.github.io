@@ -107,7 +107,7 @@ navbar:
     menu:
         首页: /
         所有内容: /archives
-        分类: /categories
+        我的联系方式: /lainxi/
         标签: /tags
         关于: /about
     # Links to be shown on the right of the navigation bar
